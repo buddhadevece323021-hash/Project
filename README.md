@@ -1,2 +1,2 @@
 # Project
-Author - Buddhadev
+Author - Buddhadev Dhal
